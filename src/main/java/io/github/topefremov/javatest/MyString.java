@@ -14,4 +14,8 @@ public class MyString {
 	public String getString() {
 		return buffer.toString();
 	}
+	
+	public void clear() {
+		buffer.setLength(0);
+	}
 }
