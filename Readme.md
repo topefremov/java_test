@@ -1,2 +1,2 @@
-Запуск:
+Run:
 * gradle jfxRun
